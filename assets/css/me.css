@@ -188,11 +188,11 @@ body.page-template-page-fullsingle-me {
     .bio {
       max-width: none; } }
   .bio a {
-    color: #CCCCCC;
+    color: #ACACAC;
     -webkit-transition: 1s;
     transition: 1s; }
     .bio a:hover {
-      color: #FFFFFF;
+      color: #052b4b;
       -webkit-transition: 0.1s;
       transition: 0.1s; }
 
@@ -240,7 +240,7 @@ body.page-template-page-fullsingle-me {
       .network ul li a:hover .svg-icon path,
       .network ul li a:hover .svg-icon polygon,
       .network ul li a:hover .svg-icon rect {
-        fill: #FFFFFF;
+        fill: #052b4b;
         -webkit-transition: 0.1s;
         transition: 0.1s; }
 
